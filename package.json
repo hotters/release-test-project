@@ -3,19 +3,26 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "url": "D:/Work/GitServer/semantic.git"
+  },
   "scripts": {
-    "sr": "semantic-release",
+    "release": "semantic-release --debug",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "semantic-release": "^19.0.2"
   },
   "release": {
     "branches": [
       "master",
       "next"
+    ],
+    "plugins": [
+      "@semantic-release/git"
     ]
   }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "semantic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sr": "semantic-release",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  },
+  "release": {
+    "branches": [
+      "master",
+      "next"
+    ]
+  }
+}

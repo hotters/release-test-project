@@ -1,13 +1,11 @@
 {
   "name": "semantic",
   "version": "1.0.0",
+  "private": true,
   "description": "test project",
   "main": "index.js",
-  "repository": {
-    "url": "D:/Work/GitServer/semantic.git"
-  },
   "scripts": {
-    "release": "semantic-release --debug",
+    "release": "semantic-release --no-ci",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -16,11 +14,20 @@
     "@semantic-release/git": "^10.0.1",
     "semantic-release": "^19.0.2"
   },
+  "repository": {
+    "url": "D:/Work/git_server/semantic.git"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
   "release": {
     "branches": [
       "master"
     ],
     "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/npm",
       "@semantic-release/git"
     ]
   }

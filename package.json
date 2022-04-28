@@ -18,8 +18,7 @@
   },
   "release": {
     "branches": [
-      "master",
-      "next"
+      "master"
     ],
     "plugins": [
       "@semantic-release/git"

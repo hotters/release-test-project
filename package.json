@@ -2,7 +2,7 @@
   "name": "semantic",
   "version": "1.0.0",
   "private": true,
-  "description": "test project",
+  "description": "test project description",
   "main": "index.js",
   "scripts": {
     "release": "semantic-release --no-ci",

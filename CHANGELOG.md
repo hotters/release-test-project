@@ -1,3 +1,10 @@
+# [1.5.0](https://D/Work/git_server/semantic/compare/v1.4.1...v1.5.0) (2022-04-28)
+
+
+### Features
+
+* some text ([150061a](https://D/Work/git_server/semantic/commit/150061a589a90cb231c6a8559f8c0a41d3071283))
+
 ## [1.4.1](https://D/Work/git_server/semantic/compare/v1.4.0...v1.4.1) (2022-04-28)
 
 

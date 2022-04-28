@@ -1,7 +1,7 @@
 {
   "name": "semantic",
   "version": "1.4.0",
-  "description": "fix #3.0",
+  "description": "fix #3.1",
   "main": "index.js",
   "scripts": {
     "release": "semantic-release --no-ci",

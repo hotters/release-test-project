@@ -1,6 +1,6 @@
 {
   "name": "semantic",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "fix #3.1",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/mint-dev/release-test-project/compare/v1.1.2...v1.2.0) (2022-05-04)
+
+
+### Features
+
+* some changes ([b3c565f](https://github.com/mint-dev/release-test-project/commit/b3c565fa8673d42a78dcf7adf6fb997a94e5b004))
+
 ## [1.1.2](https://github.com/mint-dev/release-test-project/compare/v1.1.1...v1.1.2) (2022-05-04)
 
 

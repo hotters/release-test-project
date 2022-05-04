@@ -1,7 +1,7 @@
 {
   "name": "semantic",
   "version": "1.1.1",
-  "description": "fix #3.1",
+  "description": "fix #4.0",
   "main": "index.js",
   "scripts": {
     "release": "GH_TOKEN=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 semantic-release --no-ci"

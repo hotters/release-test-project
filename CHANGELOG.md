@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mint-dev/release-test-project/compare/v1.0.0...v1.1.0) (2022-05-04)
+
+
+### Features
+
+* new version ([c821949](https://github.com/mint-dev/release-test-project/commit/c821949c3228289801065065efca20e83b428834))
+
 # [1.5.0](https://D/Work/git_server/semantic/compare/v1.4.1...v1.5.0) (2022-04-28)
 
 

@@ -1,11 +1,10 @@
 {
   "name": "semantic",
-  "version": "1.5.0",
+  "version": "1.1.0",
   "description": "fix #3.1",
   "main": "index.js",
   "scripts": {
-    "release": "semantic-release --no-ci",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "GH_TOKEN=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 semantic-release --no-ci"
   },
   "author": "",
   "license": "ISC",
@@ -15,7 +14,7 @@
     "semantic-release": "^19.0.2"
   },
   "repository": {
-    "url": "/Users/t975494/TestProjects/releasegit"
+    "url": "https://github.com/mint-dev/release-test-project.git"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"
@@ -29,7 +28,7 @@
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
       "@semantic-release/npm",
-      "@semantic-release/git"
+      "@semantic-release/github"
     ]
   }
 }

@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mint-dev/release-test-project/compare/v1.2.0...v1.3.0) (2022-05-04)
+
+
+### Features
+
+* add idea ([e5a7736](https://github.com/mint-dev/release-test-project/commit/e5a773628c68597e3f7b521c500a5ada96a7423a))
+
 # [1.2.0](https://github.com/mint-dev/release-test-project/compare/v1.1.2...v1.2.0) (2022-05-04)
 
 

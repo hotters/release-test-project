@@ -1,3 +1,5 @@
+# Installation
+
 1. set up git origin
 2. set up npmrc
 3. add in `package.json`

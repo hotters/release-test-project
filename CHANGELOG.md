@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/mint-dev/release-test-project/compare/v1.3.0...v1.3.1) (2022-05-04)
+
+
+### Bug Fixes
+
+* add index js file ([0b105f6](https://github.com/mint-dev/release-test-project/commit/0b105f6ff4f8ad2fa61719b06a3c0303c821c48d))
+
 # [1.3.0](https://github.com/mint-dev/release-test-project/compare/v1.2.0...v1.3.0) (2022-05-04)
 
 

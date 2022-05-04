@@ -15,7 +15,7 @@
     "semantic-release": "^19.0.2"
   },
   "repository": {
-    "url": "/Users/t975494/TestProjects/release.git"
+    "url": "/Users/t975494/TestProjects/releasegit"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

@@ -15,7 +15,7 @@
     "semantic-release": "^19.0.2"
   },
   "repository": {
-    "url": "https://github.com/mint-dev/release-test-project.git"
+    "url": "~/Test Projects/release.git"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

@@ -1,3 +1,13 @@
+## [1.3.2](https://github.com/mint-dev/release-test-project/compare/v1.3.1...v1.3.2) (2022-05-11)
+
+
+### Performance Improvements
+
+* cp ([5a38198](https://github.com/mint-dev/release-test-project/commit/5a3819849dc8a01220ecf39c4a02629fcda692be))
+* dist ([f69f5a5](https://github.com/mint-dev/release-test-project/commit/f69f5a52ed518b1ca67b7994ff87bd81b0695796))
+* package ([d14e782](https://github.com/mint-dev/release-test-project/commit/d14e782fe0ad04666ec314e04bb867810ed9459b))
+* script ([58e9595](https://github.com/mint-dev/release-test-project/commit/58e9595f914a829e0e12fbb6494b0d061ecf4097))
+
 ## [1.3.1](https://github.com/mint-dev/release-test-project/compare/v1.3.0...v1.3.1) (2022-05-04)
 
 

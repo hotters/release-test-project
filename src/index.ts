@@ -1,0 +1,1 @@
+console.log('SHOULDNT BE IN NPM REGESTRY');

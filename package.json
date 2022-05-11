@@ -1,10 +1,11 @@
 {
   "name": "semantic",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "fix #5.0",
   "main": "dist/index.js",
   "scripts": {
-    "release": "GH_TOKEN=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 semantic-release --no-ci"
+    "release": "GH_TOKEN=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 semantic-release --no-ci",
+    "prepublish": "cp package.json dist"
   },
   "author": "",
   "license": "ISC",

@@ -4,8 +4,7 @@
   "description": "fix #5.0",
   "main": "dist/index.js",
   "scripts": {
-    "release": "GH_TOKEN=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 semantic-release --no-ci",
-    "postversion": "cp package.json CHANGELOG.md dist"
+    "release": "GH_TOKEN=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 semantic-release --no-ci"
   },
   "author": "",
   "license": "ISC",

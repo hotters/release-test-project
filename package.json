@@ -23,7 +23,7 @@
         "preset": "angular",
         "releaseRules": [
           {"type": "docs", "release": "patch"},
-          {"type": "breaking", "release": "minor"}
+          {"type": "breaking", "release": "major"}
         ]
       }],
       "@semantic-release/release-notes-generator",

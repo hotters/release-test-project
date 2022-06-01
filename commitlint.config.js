@@ -56,9 +56,6 @@ const format = require('@commitlint/format').default;
 
 const output = format(
   {
-    valid: false,
-    errorCount: 1,
-    warningCount: 1,
     results: [
       {
         errors: [

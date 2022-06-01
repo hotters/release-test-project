@@ -1,6 +1,6 @@
 {
   "name": "semantic",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "description": "feat #1.3",
   "main": "dist/index.js",
   "scripts": {

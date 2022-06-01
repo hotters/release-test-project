@@ -4,57 +4,20 @@
   "description": "feat #1.2",
   "main": "dist/index.js",
   "scripts": {
-    "release": "GH_TOKEN=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 semantic-release --no-ci",
     "cz": "cz",
     "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "husky": "^8.0.1",
-    "semantic-release": "^19.0.2"
-  },
-  "repository": {
-    "url": "https://github.com/hotters/semantic-release-test-project.git"
-  },
-  "release": {
-    "branches": [
-      "master"
-    ],
-    "plugins": [
-      [
-        "@semantic-release/commit-analyzer",
-        {
-          "preset": "angular",
-          "releaseRules": [
-            {
-              "type": "docs",
-              "release": "patch"
-            },
-            {
-              "type": "breaking",
-              "release": "major"
-            }
-          ]
-        }
-      ],
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/changelog",
-      "@semantic-release/git"
-    ]
+    "husky": "^8.0.0",
+    "release-please": "^13.17.1"
   },
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "exec < /dev/tty && npx cz --hook || true"
     }
   }
 }

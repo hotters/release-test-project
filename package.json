@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "release": "GH_TOKEN=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 semantic-release --no-ci",
-    "": "cp package.json dist"
+    "cz": "cz"
   },
   "author": "",
   "license": "ISC",

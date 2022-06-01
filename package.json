@@ -44,5 +44,8 @@
       "@semantic-release/changelog",
       "@semantic-release/git"
     ]
+  },
+  "czConfig": {
+    "path": "cz-conventional-changelog"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "semantic",
   "version": "3.1.0",
-  "description": "feat #1.2",
+  "description": "feat #1.3",
   "main": "dist/index.js",
   "scripts": {
     "cz": "cz",
@@ -12,18 +12,13 @@
   "devDependencies": {
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
+    "git-cz": "^4.9.0",
     "husky": "^8.0.0",
     "release-please": "^13.17.1"
   },
   "config": {
     "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test",
-      "prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
+      "path": "git-cz"
     }
   }
 }

@@ -1,3 +1,11 @@
+# [4.0.0](https://github.com/hotters/semantic-release-test-project/compare/v3.2.4...v4.0.0) (2022-06-01)
+
+
+### Bug Fixes
+
+* 2 ([2b75918](https://github.com/hotters/semantic-release-test-project/commit/2b75918415fd334dd6360d77bed1cf2d42603b54))
+* add npm, remove husky ([c804747](https://github.com/hotters/semantic-release-test-project/commit/c804747f713dcf718e3b668af30360268ba5ecb9))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.

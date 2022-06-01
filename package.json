@@ -1,6 +1,6 @@
 {
   "name": "semantic",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "feat #1.0",
   "main": "dist/index.js",
   "scripts": {
@@ -22,13 +22,22 @@
       "master"
     ],
     "plugins": [
-      ["@semantic-release/commit-analyzer", {
-        "preset": "angular",
-        "releaseRules": [
-          {"type": "docs", "release": "patch"},
-          {"type": "breaking", "release": "major"}
-        ]
-      }],
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "preset": "angular",
+          "releaseRules": [
+            {
+              "type": "docs",
+              "release": "patch"
+            },
+            {
+              "type": "breaking",
+              "release": "major"
+            }
+          ]
+        }
+      ],
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
       "@semantic-release/git"

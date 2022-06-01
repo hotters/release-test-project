@@ -1,7 +1,7 @@
 {
   "name": "semantic",
   "version": "3.1.0",
-  "description": "feat #1.0",
+  "description": "feat #1.1",
   "main": "dist/index.js",
   "scripts": {
     "release": "GH_TOKEN=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 semantic-release --no-ci",

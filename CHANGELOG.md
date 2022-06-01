@@ -1,3 +1,19 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [3.2.0](https://github.com/mint-dev/release-test-project/compare/v3.1.0...v3.2.0) (2022-06-01)
+
+
+### Features
+
+* 13123 ([5e0ec09](https://github.com/mint-dev/release-test-project/commit/5e0ec09ffd802b055a6e7fbec71e0d4d9cb7bb4c))
+
+
+### Bug Fixes
+
+* descr ([1d861a2](https://github.com/mint-dev/release-test-project/commit/1d861a28357e9b5b9469ef8369a30a48aceaf47d))
+
 # [2.1.0](https://github.com/mint-dev/release-test-project/compare/v2.0.0...v2.1.0) (2022-06-01)
 
 
